@@ -82,4 +82,3 @@ Welcome to the my repository! In here contains a project recreating the printf f
 Ryan Donaldson Cohort 22 Atlas School  Tulsa 10/2023 [(GitHub)](https://github.com/donaldrs01)  
 Luke Schula Cohort 22 Atlas School Tulsa 10/2023
 ***
-Ryan Donaldson Cohort 22 Holberton School Tulsa 10/2023
