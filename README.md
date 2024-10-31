@@ -1,9 +1,8 @@
 # Recreating printf()...the long way.
 
-This project aimed at recreating the always-import printf command in the C-language. It is one of the more comprehensive projects of my first trimester of work at the Atlas School.  
+This project focused on recreating the essential printf command in C, one of the most comprehensive and challenging projects in my first trimester at Atlas School. Rebuilding printf required a deep dive into the mechanics of this fundamental function, from handling variable arguments to managing format specifiers in C.
 
-This project was also an introduction to larger-scale problem solving when it comes to programming. It involved whiteboarding sessions, collaboration with my teammate, and a general understanding of the flow of actions that makes printf functional. It also relied heavily on understanding the concept of variable arguments and how format specifiers work in C.  Below, my partner and I have laid out the various tasks we set out to accomplish accompanied with file descriptions for the different parts of the project.
-
+This experience was my introduction to larger-scale problem-solving in programming. It involved extensive whiteboarding, collaboration with my teammate, and developing a systematic understanding of how printf operates under the hood. Through this project, I strengthened my skills in handling variable arguments, designing logic for different format specifiers, and organizing code into modular tasks. Below, my teammate and I have outlined the specific tasks we tackled, along with file descriptions for the various components of our printf implementation.
 
 ## Project Requirements 
   - Compiler used to test code: gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
