@@ -79,6 +79,7 @@ Welcome to the my repository! In here contains a project recreating the printf f
     1. The function enters another loop that prints each digit of 'a'. It does this by dividing 'a' by 'count', taking the remainder, and adding the ASCII value of '0' to convert the digit to its corresponding character. It then prints the character using 'putchar'. The 'count' variable is divided by 10 in each iteration to move to the next digit. The function also increments the 'length' variable for each digit printed.
     1. Returns the value of length, which represents the total length of the printed output.
 ##### Authors
-Luke Schula Cohort 22 Holberton School Tulsa 10/2023
+Ryan Donaldson Cohort 22 Atlas School  Tulsa 10/2023 [(GitHub)](https://github.com/donaldrs01)  
+Luke Schula Cohort 22 Atlas School Tulsa 10/2023
 ***
 Ryan Donaldson Cohort 22 Holberton School Tulsa 10/2023
