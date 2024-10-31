@@ -1,6 +1,8 @@
 # Recreating printf()...the long way.
 
-Welcome to the my repository! In here contains a project recreating the printf function without case or switch statements.This project was done trimester 1 at Holberton School Tulsa, and the project was written using the C programming language.
+This project aimed at recreating the always-import printf command in the C-language. It is one of the more comprehensive projects of my first trimester of work at the Atlas School.  
+
+This project was also an introduction to larger-scale problem solving when it comes to programming. It involved whiteboarding sessions, collaboration with my teammate, and a general understanding of the flow of actions that makes printf functional. It also relied heavily on understanding the concept of variable arguments and how format specifiers work in C.  Below, my partner and I have laid out the various tasks we set out to accomplish accompanied with file descriptions for the different parts of the project.
 
 
 ## Project Requirements 
