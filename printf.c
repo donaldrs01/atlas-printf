@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include "main.h"
 /**
- * _printf - replicates printf by producing output according to format string
+ * _printf - replicates printf by producing output according to format string.
  * @format: a pointer to a character (format) string
  * @... - variable number of arguments that replace specifiers in format string
  *
