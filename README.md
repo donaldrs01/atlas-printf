@@ -1,3 +1,4 @@
+![Screenshot for README](/images/screenshot.png)
 # Recreating printf()...the long way.
 
 This project focused on recreating the essential printf command in C, one of the most comprehensive and challenging projects in my first trimester at Atlas School. Rebuilding printf required a deep dive into the mechanics of this fundamental function, from handling variable arguments to managing format specifiers in C.
